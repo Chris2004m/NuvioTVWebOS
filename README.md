@@ -18,14 +18,14 @@
 
 ## About
 
-**NuvioWebOS** is the shared LG webOS metadata repository for Nuvio TV.
+**NuvioTVWebOS** is the shared LG webOS metadata repository for Nuvio TV.
 
 It is not the main application source code. Release IPKs are now built directly from `NuvioMedia/NuvioWeb`, and this repository primarily tracks the Homebrew metadata published in `webosbrew/apps.json` plus shared branding assets.
 
 ## Install
 
 - For direct `.ipk` install: download the latest `.ipk` built from `NuvioMedia/NuvioWeb` releases, enable Developer Mode and Key Server by following `https://www.webosbrew.org/devmode`, then install it with `webOS Dev Manager`
-- For Homebrew Channel repository install: open `Homebrew Channel`, go to `Settings`, choose `Add repository`, enter `https://raw.githubusercontent.com/NuvioMedia/NuvioWebOS/main/webosbrew/apps.json`, return to the apps list, and install Nuvio TV from there
+- For Homebrew Channel repository install: open `Homebrew Channel`, go to `Settings`, choose `Add repository`, enter `https://raw.githubusercontent.com/NuvioMedia/NuvioTVWebOS/main/webosbrew/apps.json`, return to the apps list, and install Nuvio TV from there
 
 ## For Developers
 
